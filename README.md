@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project has created with below command in my workspace.
+
+## `npx create-react-app starter` (Starter is the app name)
+
+Clone this project and install npm dependencies. To install dependencies, go to project directory an run below command 
+
+### `npm install`.
+
+It will install all the necessary node modules to run this app.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
